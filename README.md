@@ -22,7 +22,7 @@
 
 ## Part 3 - TensorFlow In Practice 示例代码 下载地址
 
-视频地址Url 请点击图片（或长按二维码前往）：
+示例代码地址Url 请点击图片（或长按二维码前往）：
 
 [<img src="README.assets/1592893473307.png" alt="1592893473307" style="zoom:67%;" />](https://github.com/pepure/TensorFlow-In-Practice-Code-Review)
 
