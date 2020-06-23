@@ -1,4 +1,38 @@
-## L1 - 卷积神经网络的卷积层可视化
+本文主要分享 TensorFlow Certificate 认证考试的视频讲解，以及 TensorFlow In Practice 课程的案例代码解读，如有错误不足之处，望读者指正提醒，谢谢！
+
+
+
+## Part 1 - TensorFlow Certificate 开发者证书 中文手册
+
+文章地址Url 请点击图片：
+
+[<img src="README.assets/1592891231736.png" alt="1592891231736" style="zoom:80%;" />](https://mp.weixin.qq.com/s?__biz=MzAwNTM2ODk3NA==&mid=2247483764&idx=1&sn=29791c6b282a7c986b1a772e32c09e9b&chksm=9b1cfc95ac6b75831c2d27413c216ed701dafdf7597ff56ee527a5f643129974f5d064ef26b7&scene=27&ascene=0&devicetype=android-28&version=27000f3d&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A7HZ%2BOnpZXa6GR%2FVlWZKBMY%3D&pass_ticket=S3H%2F8SstY6A4rtDMOr1yVsFpuXQz11EehH1iHWHXlyMYcSpuw7niuErnFxSTmdqK&wx_header=1](https://mp.weixin.qq.com/s?__biz=MzAwNTM2ODk3NA==&mid=2247483764&idx=1&sn=29791c6b282a7c986b1a772e32c09e9b&chksm=9b1cfc95ac6b75831c2d27413c216ed701dafdf7597ff56ee527a5f643129974f5d064ef26b7&scene=27&ascene=0&devicetype=android-28&version=27000f3d&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A7HZ%2BOnpZXa6GR%2FVlWZKBMY%3D&pass_ticket=S3H%2F8SstY6A4rtDMOr1yVsFpuXQz11EehH1iHWHXlyMYcSpuw7niuErnFxSTmdqK&wx_header=1))
+
+
+
+## Part 2 - TensorFlow Certificate & 示例代码 视频讲解
+
+视频地址Url 请点击图片（或长按二维码前往）：
+
+[<img src="README.assets/1592891949954.png" alt="1592891949954" style="zoom: 33%;" />](https://www.bilibili.com/video/BV1wf4y117qF/?p=2)
+
+[![1592893158590](README.assets/1592893158590.png)](https://www.bilibili.com/video/BV1wf4y117qF/?p=2)
+
+
+
+## Part 3 - TensorFlow In Practice 示例代码 下载地址
+
+视频地址Url 请点击图片（或长按二维码前往）：
+
+[<img src="README.assets/1592893473307.png" alt="1592893473307" style="zoom:67%;" />](https://github.com/pepure/TensorFlow-In-Practice-Code-Review)
+
+[![1592893563066](README.assets/1592893563066.png)](https://github.com/pepure/TensorFlow-In-Practice-Code-Review)
+
+
+
+##　Part 3 - TensorFlow In Practice 示例代码 解读
+
+### L1 - 卷积神经网络的卷积层可视化
 
 ```python
 import tensorflow as tf
@@ -195,7 +229,7 @@ plt.imshow(test_images[2].reshape(28, 28))
 
 
 
-## L2 - 迁移学习的简单尝试
+### L2 - 迁移学习的简单尝试
 
 本案例主要使用InceptionV3模型进行迁移学习，来进行"人和马训练集"的分类。
 
@@ -1602,7 +1636,7 @@ plt.show()
 
 
 
-## L3 - 自动生成莎士比亚风格的诗
+### L3 - 自动生成莎士比亚风格的诗
 
 这是一个比较有趣的自动生成《莎士比亚十四行诗》风格诗的代码。
 
@@ -1998,7 +2032,7 @@ print(seed_text)
 
 
 
-## L4 - 气温预测的时间序列模型
+### L4 - 气温预测的时间序列模型
 
 这是一个气温预测的时间序列预测的代码
 
