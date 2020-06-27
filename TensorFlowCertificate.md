@@ -108,7 +108,7 @@ https://app.trueability.com/google-certificates/tensorflow-developer
 
 ### 考试期间求助资源
 
-考试期间只可以用浏览器访问TensorFlow文档
+考试期间你可以自由访问任何需要的学习资源。（新版本TF_Certificate_Candidate_Handbook中修改）
 
 ### 考试资格
 
