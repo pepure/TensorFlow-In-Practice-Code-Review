@@ -6,7 +6,7 @@
 
 文章地址Url 请点击图片：
 
-[<img src="README.assets/1592891231736.png" alt="1592891231736" style="zoom:80%;" />](https://github.com/pepure/TensorFlow-In-Practice-Code-Review/blob/master/TensorFlowCertificate.md](https://github.com/pepure/TensorFlow-In-Practice-Code-Review/blob/master/TensorFlowCertificate.md))
+[<img src="README.assets/1592891231736.png" alt="1592891231736" style="zoom:80%;" />](https://github.com/pepure/TensorFlow-In-Practice-Code-Review/blob/master/TensorFlowCertificate.md))
 
 
 
