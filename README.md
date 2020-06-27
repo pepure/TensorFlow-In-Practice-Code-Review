@@ -6,7 +6,7 @@
 
 文章地址Url 请点击图片：
 
-[<img src="README.assets/1592891231736.png" alt="1592891231736" style="zoom:80%;" />](https://mp.weixin.qq.com/s?__biz=MzAwNTM2ODk3NA==&mid=2247483764&idx=1&sn=29791c6b282a7c986b1a772e32c09e9b&chksm=9b1cfc95ac6b75831c2d27413c216ed701dafdf7597ff56ee527a5f643129974f5d064ef26b7&scene=27&ascene=0&devicetype=android-28&version=27000f3d&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A7HZ%2BOnpZXa6GR%2FVlWZKBMY%3D&pass_ticket=S3H%2F8SstY6A4rtDMOr1yVsFpuXQz11EehH1iHWHXlyMYcSpuw7niuErnFxSTmdqK&wx_header=1](https://mp.weixin.qq.com/s?__biz=MzAwNTM2ODk3NA==&mid=2247483764&idx=1&sn=29791c6b282a7c986b1a772e32c09e9b&chksm=9b1cfc95ac6b75831c2d27413c216ed701dafdf7597ff56ee527a5f643129974f5d064ef26b7&scene=27&ascene=0&devicetype=android-28&version=27000f3d&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A7HZ%2BOnpZXa6GR%2FVlWZKBMY%3D&pass_ticket=S3H%2F8SstY6A4rtDMOr1yVsFpuXQz11EehH1iHWHXlyMYcSpuw7niuErnFxSTmdqK&wx_header=1))
+[<img src="README.assets/1592891231736.png" alt="1592891231736" style="zoom:80%;" />](https://github.com/pepure/TensorFlow-In-Practice-Code-Review/blob/master/TensorFlowCertificate.md](https://github.com/pepure/TensorFlow-In-Practice-Code-Review/blob/master/TensorFlowCertificate.md))
 
 
 
