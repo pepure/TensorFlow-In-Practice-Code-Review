@@ -564,6 +564,21 @@ history = model.fit(train_set, epochs=100, callbacks=[lr_schedule])
 
 **问题描述：**
 
+授权页面上面提示登录成功了，但是返回pycharm时提示登陆错误
 
+![image-20200627154225898](TensorFlowCertificate.assets/image-20200627154225898.png)
+
+![image-20200627154245293](TensorFlowCertificate.assets/image-20200627154245293.png)
 
 **解决方式：**
+
+一般是国内翻墙问题导致，可以通过设置pycharm里面的proxy，并且必须重启pycharm。
+
+
+
+
+
+
+
+
+
